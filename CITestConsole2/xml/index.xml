@@ -28,6 +28,7 @@
           <AttributeName>System.Reflection.AssemblyTitle("mscorlib.dll")</AttributeName>
         </Attribute>
       </Attributes>
+      <AssemblyPublicKey>[00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 ]</AssemblyPublicKey>
     </Assembly>
   </Assemblies>
   <Remarks>To be added.</Remarks>
